@@ -1,0 +1,547 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+@font-face
+{
+    font-family: title;
+    src: url('../fonts/register-sans-btn-lt.ttf');
+} 
+
+@font-face
+{
+    font-family: brixslab-regular ;
+    src: url('../fonts/brixslab-regular.ttf');
+}
+
+
+
+
+body
+{
+	background-color: #c0c0c0;
+    background-image:url('../img/background.png'); 
+    background-repeat:repeat;
+}
+
+
+
+/* 1024 */
+
+    #header
+    {
+    	background-attachment: fixed;
+        background-position: center center;
+        background-size: cover;
+        color: #FFFFFF;
+        cursor: default;
+        padding: 2.5em 0 2em;
+        width: 100%;   
+        text-align: center;
+        background-color:#f0f0f0;
+        height: 273px;
+
+    }
+
+    #header li
+    {
+        font-weight: bold;
+    }
+
+
+    .header_shadow
+    {
+        height: 31px;
+        width: 100%;
+        background-image: url('../img/shadow_center.png');
+        
+        background-repeat: repeat-x;
+        
+    }
+
+
+    .header_shadow_left
+    {
+        background-image: url('../img/shadow_left.png');
+        background-origin:content-box;
+        background-size:100% 100%;   
+        float: left; 
+        height: 31px;
+        width: 512px;
+    }
+
+
+    .header_shadow_right
+    {
+        background-image: url('../img/shadow_right.png');
+        background-origin:content-box;
+        background-size:100% 100%;   
+        float: right; 
+        height: 31px;
+        width: 512px;
+    }
+
+
+
+
+    #title
+    {	
+    	color: #660066;
+    	text-align: center;
+    	font-size: 47pt;
+        font-family: title;
+        text-transform: uppercase;  
+    
+    }
+
+    #nav{
+    	left: 0;
+        overflow: hidden;
+        padding: 1.5em 0;
+        text-align: center;
+        top: 0;
+        width: 100%;
+        z-index: 1;
+        font-size: 20pt;
+        color: #7a716f;
+
+    }
+    #nav a
+    {
+    	color: #7a716f;
+       
+    }
+
+    #nav a:hover
+    {
+    	color: #660066;
+        text-decoration: none;
+         
+    } 
+
+    #nav > li
+    {
+        width: 113px;
+    }
+
+
+    #nav > ul > li{
+
+       
+        display: inline-block;
+        list-style-type:none;
+        margin-right: 50px;
+    }
+
+
+    #nav >  ul > li:hover
+    {
+        
+    }
+
+    /* Content */
+
+    #content
+    {
+        background-image: url('../img/bioback.png');
+        background-repeat: repeat-x;
+        background-position: center;
+        background-origin:content-box;
+        background-size:100% 100%;
+        width: 913px;
+        height: 800px;
+        background-color: #999999;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+
+
+    #slideshow
+    {
+        width: 913px;
+        height: 327px;
+        background-color:#202020;
+        margin: 0 auto;
+        margin-top: 26px;
+    }
+
+    #slideshow_left
+    {
+        float: left;
+        margin-top: 140px;
+
+    }
+
+    #slideimage 
+    {
+        margin: 0 auto;
+        width: 826px;
+        float: left;
+        margin-top: 12px;
+
+    }
+
+
+    #slideshow_right
+    {
+        float: right;
+        margin-top: 140px;
+
+    }
+
+
+    #slideshow li
+    {
+        display: inline;
+        list-style: none;
+        margin-left: 30px;
+    }
+
+
+    /* Bioexcerpt */
+    #bioexcerpt
+    {
+        width: 913px;
+        height: 269px;
+        background-color: #919191;
+        margin: 0 auto;
+        margin-top: 26px;
+        font-family: brixslab-regular;
+
+        background-image: url('../img/bioexcerpt.png');
+        background-repeat: repeat-x;
+        background-position: center;
+        background-origin:content-box;
+        background-size:100% 100%;
+
+    }
+
+
+
+
+    #bioexcerpt_img 
+    {
+        float: left;
+    }
+
+    #bioexcerpt_img > img
+    {
+        height:164px;
+        width:122px; 
+        margin-left: 49px; margin-top: 49px;   
+    }
+
+    #biotextauthor
+    {
+        margin-top: 33px; margin-left: 36px;
+        float: left;
+        width: 290px;
+    }
+
+    .biotextauthor_title
+    {
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        color: white;
+        font-size: 18pt;
+    }
+
+    .biotextauthor_info
+    {
+        color: black;
+        font-size: 11pt;
+        width: 381px;
+    }
+
+    .biotextauthor_readmore
+    {
+        color: #660066; 
+    }
+
+
+
+    #biopost
+    {
+        margin-right: 20px; 
+        height: 181px; 
+        width: 261px; 
+        margin-top: 41px; 
+        margin-left: 14px;
+        float: right;
+    }
+
+    .biopost_title 
+    {
+        color : #520152;
+        font-size: 18pt;
+    }
+
+    .biopost_text
+    {
+        color : #520152;
+        font-size: 11pt;
+        line-height: 25pt;
+
+    }
+
+
+    #trade 
+    {
+        float: left;
+    }
+
+    #quote
+    {
+
+        float: left;
+    }
+
+
+    
+
+    #biotext
+    {
+        width: 600px;
+        float: left;
+        clear: left;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+        font-family: brixslab-regular;
+        padding-left: 52px;
+        text-align: justify;
+    }
+
+    #biotext > span 
+    {
+        color: white;
+        font-weight: bold;
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        font-size: 14pt;
+
+    }
+
+    #photo img
+    {
+        
+        margin-top: 48px;
+        width: 234px;
+
+
+    }
+
+
+    #awards 
+    {
+        margin-top: 46px;
+        padding-left: 632px; 
+        padding-right: 30px;
+        font-family: Aleo-Regular;
+
+
+        
+    }
+
+    #awards > span
+    {
+        color: white;
+        font-weight: bold;
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        font-size: 14pt;
+
+    }
+
+
+
+
+    #quotewidget
+    {
+
+        background-image: url('../img/awards.png');
+        background-repeat: repeat-x;
+        background-position: center;
+        background-origin: content-box;
+        background-size:100% 100%;
+        font-family:  brixslab-regular;
+        width: 913px;
+        height: 147px;
+        background-color:#202020;
+        margin: 0 auto;
+        margin-top: 26px;
+    }
+
+    #author_quote
+    {
+
+        float: left;
+        width: 170px;
+        margin-left: 100px; margin-top: 56px;
+    }
+
+    #quote
+    {
+         margin-top: 43px; 
+         margin-left: 35px;
+         font-size: 15pt;
+    }
+
+    /* Documentary */
+
+    #documentary
+    {
+        width: 913px;
+        height: 478px;
+        background: #979797;        
+        margin: 26px auto 0 auto;
+
+        background-image: url('../img/documentaryfeatures.png');
+        background-repeat: repeat-x;
+        background-position: center;
+        background-origin: content-box;
+        background-size:100% 100%;
+
+    }
+
+    #documentary_container
+    {
+        width: 100%;
+        height: 100%;
+        padding-left: 135px; 
+        padding-right: 135px;
+        padding-top: 24px;
+        font-family: brixslab-regular;
+    }
+
+    #documentary_container hr
+    {
+       margin-left: -70px;
+       width:120%;
+       border: 0.5px solid rgba(0,0,0,0.25);
+       
+    }
+
+    .documentary_title
+    {
+        font-size: 16pt;
+        font-weight: bold;
+        color: white;
+        text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.75);
+        text-align: center;
+        word-spacing: .2em;
+
+    }
+
+    .documentary_quote
+    {
+        font-size: 13pt;
+        color: white;
+        font-weight: lighter;
+    }
+
+    .documentary_text
+    {
+        font-size: 10pt;
+        text-align: justify;
+        color: black;
+
+    }
+
+
+    #documentary_paginator > ul
+    {   
+        
+        text-align: center;
+    }   
+
+    #documentary_paginator > ul > li
+    {
+
+        display: inline-block;
+        list-style-type:none;
+
+    }
+
+
+
+
+    .paginator
+    {
+        font-family: title;
+        font-size: 8pt;
+        font-weight: bold;
+        display: block;
+        color: black;
+
+    }
+
+
+    .paginator:hover
+    {
+        font-family: title;
+        font-weight: bold;
+        display: block;
+        width: 15px;
+        height: 14px;
+        background: #3e3e3e;
+        font-family: title;
+        font-size: 8pt;
+        color: white;
+        text-align: center;
+
+    }
+    
+    #documentary_paginator > div:hover
+    {
+        display: inline;
+        list-style: none;
+        width: 15px;
+        height: 14px;
+        background: black;
+        color: white;
+    }
+
+
+    
+    
+
+    /*End Documentary */
+
+
+    /* Footer */
+
+
+    #footer
+    {
+        margin-top: 50px;
+        width: 100%;
+        height: 36px;
+        background: white;
+        
+    }
+
+    #trade
+    {
+        text-align: left;
+        color: #7a716f;
+    }
+
+    #trade
+    {
+        text-align: right;
+        color: #7a716f;
+    }
+
+/* end 1024 */
+
+
+
+
+
+
+
+
+
+
+

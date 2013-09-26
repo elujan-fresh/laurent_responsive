@@ -11,15 +11,15 @@ include('header.php');
 
         <div id="slideimage" class="sliderClass"> 
           <ul>
-            <li><img src="img/imagehitchcock.jpg"></li>
-            <li><img src="img/imagelincoln.jpg"></li>
-            <li><img src="img/imagepolaski.jpg"></li>
-            <li><img src="img/imagehitchcock.jpg"></li>
-            <li><img src="img/imagelincoln.jpg"></li>
-            <li><img src="img/imagepolaski.jpg"></li>
-            <li><img src="img/imagehitchcock.jpg"></li>
-            <li><img src="img/imagelincoln.jpg"></li>
-            <li><img src="img/imagepolaski.jpg"></li>
+            <li><img src="img/imagehitchcock.jpg"/></li>
+            <li><img src="img/imagelincoln.jpg"/></li>
+            <li><img src="img/imagepolaski.jpg"/></li>
+            <li><img src="img/imagehitchcock.jpg"/></li>
+            <li><img src="img/imagelincoln.jpg"/></li>
+            <li><img src="img/imagepolaski.jpg"/></li>
+            <li><img src="img/imagehitchcock.jpg"/></li>
+            <li><img src="img/imagelincoln.jpg"/></li>
+            <li><img src="img/imagepolaski.jpg"/></li>
           </ul>
         </div>
         <div id="slideshow_right" class="next">
@@ -34,7 +34,7 @@ include('header.php');
 
         <div id="biotextauthor">
           <p>
-            <span class="biotextauthor_title">Laurent Bouzereau</br>Director/Filmmaker/Author</span>
+            <span class="biotextauthor_title">Laurent Bouzereau<br/>Director/Filmmaker/Author</span>
             <p  class="biotextauthor_info">Named one of the top 50 leaders in the field of New Media by The Hollywood Reporter, director/filmmaker/author Laurent Bouzereau is one of the most sought-after talents in the industry.    <a href="about.php" style="text-decoration:none;"><span class="biotextauthor_readmore">&gt;Read more</span></a>
             </p>
           </p>
@@ -44,11 +44,11 @@ include('header.php');
           <p>
             <span class="biopost_title" >Recent</span>
             <p class="biopost_text">
-              <p class="biopost_text">Don’t Say No Until I Finish Talking</p>
-              <p class="biopost_text">Night at the Movies: Episode 6</p>
-              <p class="biopost_text">Roman Polanski: A Film Memoir</p>
-              <p class="biopost_text">Behind the Scenes</p>
-              <p class="biopost_text">Hitchcock: Piece by Piece</p>
+              <p class="biopost_text"><a href="http://69.89.31.69/~nedlandm/lb/zanuck/" style="text-decoration:none;">Don’t Say No Until I Finish Talking</a></p>
+              <p class="biopost_text"><a href="" style="text-decoration:none;">Night at the Movies: Episode 6</a></p>
+              <p class="biopost_text"><a href="http://69.89.31.69/~nedlandm/lb/polanski/" style="text-decoration:none;">Roman Polanski: A Film Memoir</a></p>
+              <p class="biopost_text"><a href="" style="text-decoration:none;">Behind the Scenes</a></p>
+              <p class="biopost_text"><a href="http://69.89.31.69/~nedlandm/lb/hitchcock-piece-by-piece/" style="text-decoration:none;">Hitchcock: Piece by Piece</a></p>
             </p>
           </p>
         </div>

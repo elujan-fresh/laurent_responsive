@@ -18,9 +18,23 @@
         <link rel="stylesheet" href="css/carruselStyle.css">
 
 
-
-        <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
         
+        <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
+
+        <script src="js/vendor/bootstrap.min.js"></script>
+        <script type="text/javascript" src="js/jCarouselLite.js"></script>
+        <script type="text/javascript" src="js/otherCarrusel.js"></script>
+
+        <script src="js/main.js"></script>
+
+        <script>
+            var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g.src='//www.google-analytics.com/ga.js';
+            s.parentNode.insertBefore(g,s)}(document,'script'));
+        </script>
     </head>
     <body>
       
@@ -30,7 +44,7 @@
           <ul>
             <li ><a href="about.php">ABOUT</a></li>
             <li class="submenu">
-              <a href"works.php">WORK</a>
+              <a href="works.php">WORK</a>
               <ul class="header_submenu">
                 <li><a href="feature_documentaries.php">Feature Documentaries</a></li>
                 <li><a href="fullwidthpost.php">A Night at the movies</a></li>

@@ -3,18 +3,20 @@ include('header.php');
 ?>
 
 
+
      <div id="slideshow" >
-        <div id="slideshow_left">
+        <div id="slideshow_left" class="prev">
           <img src="img/home_left.png">
         </div>
-        <div id="slideimage"> 
+
+        <div id="slideimage" class="sliderClass"> 
           <ul>
             <li><img src="img/imagehitchcock.jpg"></li>
             <li><img src="img/imagelincoln.jpg"></li>
             <li><img src="img/imagepolaski.jpg"></li>
           </ul>
         </div>
-        <div id="slideshow_right">
+        <div id="slideshow_right" class="next">
           <img src="img/home_rigth.png">
         </div>
       </div>

@@ -44,11 +44,11 @@ include('header.php');
           <p>
             <span class="biopost_title" >Recent</span>
             <p class="biopost_text">
-              <p class="biopost_text"><a href="http://69.89.31.69/~nedlandm/lb/zanuck/" style="text-decoration:none;">Don’t Say No Until I Finish Talking</a></p>
-              <p class="biopost_text"><a href="" style="text-decoration:none;">Night at the Movies: Episode 6</a></p>
-              <p class="biopost_text"><a href="http://69.89.31.69/~nedlandm/lb/polanski/" style="text-decoration:none;">Roman Polanski: A Film Memoir</a></p>
-              <p class="biopost_text"><a href="" style="text-decoration:none;">Behind the Scenes</a></p>
-              <p class="biopost_text"><a href="http://69.89.31.69/~nedlandm/lb/hitchcock-piece-by-piece/" style="text-decoration:none;">Hitchcock: Piece by Piece</a></p>
+              <p class="biopost_text"><a href="dontsay.php" style="text-decoration:none;">Don’t Say No Until I Finish Talking</a></p>
+              <p class="biopost_text"><a href="emptypost.php" style="text-decoration:none;">Night at the Movies: Episode 6</a></p>
+              <p class="biopost_text"><a href="polanskipost.php" style="text-decoration:none;">Roman Polanski: A Film Memoir</a></p>
+              <p class="biopost_text"><a href="emptypost.php" style="text-decoration:none;">Behind the Scenes</a></p>
+              <p class="biopost_text"><a href="memorypost.php" style="text-decoration:none;">Hitchcock: Piece by Piece</a></p>
             </p>
           </p>
         </div>

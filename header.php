@@ -18,7 +18,7 @@
         <link rel="stylesheet" href="css/carruselStyle.css">
 
 
-        
+
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
          <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
@@ -44,7 +44,7 @@
           <ul>
             <li ><a href="about.php">ABOUT</a></li>
             <li class="submenu">
-              <a href="works.php">WORK</a>
+              <a href="#">WORK</a>
               <ul class="header_submenu">
                 <li><a href="feature_documentaries.php">Feature Documentaries</a></li>
                 <li><a href="fullwidthpost.php">A Night at the movies</a></li>

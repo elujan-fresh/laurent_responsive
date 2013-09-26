@@ -13,10 +13,15 @@ $(function(){
 
 
 
-    $(".sliderClass").jCarouselLite({
+    var car = $(".sliderClass").jCarouselLite({
         btnNext: ".next",
         btnPrev: ".prev"
-});
+	});
+
+
+	$.timer(1000, function(){
+		$(car).prev();
+	});
 
 
 	

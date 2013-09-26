@@ -11,6 +11,7 @@
 
         <script src="js/vendor/bootstrap.min.js"></script>
         <script type="text/javascript" src="js/jCarouselLite.js"></script>
+        <script type="text/javascript" src="js/otherCarrusel.js"></script>
 
         <script src="js/main.js"></script>
 

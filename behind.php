@@ -3,9 +3,6 @@ include('header.php');
 ?>
 
 
-
-
-
  <div id="slideshow" >
         <div id="slideshow_left" class="prev">
           <img src="img/home_left.png">
@@ -22,7 +19,6 @@ include('header.php');
           <img src="img/home_rigth.png">
         </div>
       </div>
-
 
 
       <div id="behind">

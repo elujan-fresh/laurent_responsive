@@ -37,7 +37,7 @@
                 <li><a href="misc.php">Miscellaneous</a></li>
               </ul>
             </li>
-            <li><a href"#">CONTACT</a></li>
+            <li><a href="contact.php">CONTACT</a></li>
             
           </ul>
           

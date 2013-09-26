@@ -276,7 +276,7 @@
     #slideimage 
     {
         margin: 0 auto;
-        width: 826px;
+        width: 826px !important;
         float: left;
         margin-top: 12px;
 

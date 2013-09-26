@@ -46,9 +46,9 @@ include('header.php');
             <p class="biopost_text">
               <p class="biopost_text"><a href="dontsay.php" style="text-decoration:none;">Don’t Say No Until I Finish Talking</a></p>
               <p class="biopost_text"><a href="emptypost.php" style="text-decoration:none;">Night at the Movies: Episode 6</a></p>
-              <p class="biopost_text"><a href="polanskipost.php" style="text-decoration:none;">Roman Polanski: A Film Memoir</a></p>
+              <p class="biopost_text"><a href="polpost.php" style="text-decoration:none;">Roman Polanski: A Film Memoir</a></p>
               <p class="biopost_text"><a href="emptypost.php" style="text-decoration:none;">Behind the Scenes</a></p>
-              <p class="biopost_text"><a href="memorypost.php" style="text-decoration:none;">Hitchcock: Piece by Piece</a></p>
+              <p class="biopost_text"><a href="piecepost.php" style="text-decoration:none;">Hitchcock: Piece by Piece</a></p>
             </p>
           </p>
         </div>

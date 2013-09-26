@@ -24,7 +24,7 @@
     <body>
       
       <div id="header">
-        <span id="title">Laurent  Bouzereau</span>
+        <a href="index.php" style="text-decoration:none;"><span id="title">Laurent  Bouzereau</span></a>
         <div id="nav" >
           <ul>
             <li ><a href="about.php">ABOUT</a></li>

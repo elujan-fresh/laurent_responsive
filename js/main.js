@@ -19,9 +19,6 @@ $(function(){
 	});
 
 
-	$.timer(1000, function(){
-		$(car).prev();
-	});
 
 
 	

@@ -152,9 +152,11 @@
 
     }
 
-    #nav ul li
+    #nav ul li a
     {   
-        
+        color: #666666;
+        font-family: registersans;
+        font-size: 15pt;
     }
 
     #nav ul li:hover
@@ -169,13 +171,14 @@
 
     #nav a:hover
     {
-        color: #660066;
+        color: #666666;
     }
 
     #nav li 
     {
         display: inline;
         list-style: none;
+        padding-left: 45px;
     }
 
     #nav li ul 
@@ -186,6 +189,7 @@
         padding-top: 10px;
         width: 856px;
         height: 50px;
+
     }
 
     #nav li:hover ul
@@ -202,11 +206,39 @@
         float: none;
         list-style: none; 
         width: auto; 
+        text-transform: uppercase;
+
+    }
+
+    #nav li ul li a
+    {
+        font-size: 12pt;
     }
 
 
+    .logos 
+    {
+        width: 300px;
+    }
 
+    .logo_row
+    {
+        margin-top: 20px;
+        width: 100%;
+        height: 46px;
+    }
 
+    .logo_left
+    {
+        float: left;
+        width: 50%;
+    }
+
+    .logo_right
+    {
+        float: left;
+        width: 50%;
+    }
 
     /* Content */
 
@@ -361,11 +393,11 @@
         font-size: 18pt;
     }
 
-    .biopost_text
+    .biopost_text 
     {
         color : #520152;
         font-size: 11pt;
-        line-height: 25pt;
+        line-height: 16pt;
 
     }
 
@@ -778,7 +810,7 @@
 
     #behind hr
     {
-        border: 1px solid #3e3e3e;
+        border-top: 1px solid #3e3e3e;
         width: 80%;
         padding-left: 30px;
         padding-right: 40px;

@@ -5,7 +5,7 @@ include('header.php');
 
       <div id="books">
         <div id="books_title">
-            <span>Books</span>
+            <span>BOOKS</span>
         </div>
         <div id="books_container">
             <ul>

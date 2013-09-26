@@ -23,20 +23,18 @@
     <body>
       
       <div id="header">
-        <span id="title">Laurent Bouzereeau<span>
+        <span id="title">Laurent  Bouzereau</span>
         <div id="nav" >
           <ul>
-            <li ><a href"about.php">ABOUT</a></li>
+            <li ><a href="about.php">ABOUT</a></li>
             <li class="submenu">
               <a href"works.php">WORK</a>
               <ul class="header_submenu">
                 <li><a href="feature_documentaries.php">Feature Documentaries</a></li>
-                <li><a href="homes">A Night at the movies</a></li>
-                <li><a href="behind.php">behind the Scenes</a></li>
+                <li><a href="fullwidthpost.php">A Night at the movies</a></li>
+                <li><a href="behind.php">Behind the Scenes</a></li>
                 <li><a href="books.php">Books</a></li>
                 <li><a href="misc.php">Miscellaneous</a></li>
-
-
               </ul>
             </li>
             <li><a href"#">CONTACT</a></li>

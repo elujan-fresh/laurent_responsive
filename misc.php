@@ -26,16 +26,16 @@
         THE HOLLYWOOD ENTERTAINMENT MUSEUM 
         15-minute documentary starring Carol Burnett (Writer, Director, Producer, 1993)
         </p>
-        <table>
-          <tr>
-            <td><img src="img/misc/logo_1.png"></td>
-            <td><img src="img/misc/logo_2.png"</td>
-          </tr>
-          <tr>
-            <td><img src="img/misc/logo_3.png"</td>
-            <td><img src="img/misc/logo_4.png"</td>
-          </tr>
-        </table>
+        <div class="logos">
+          <div class="logo_row">
+            <div class="logo_left"><img src="img/misc/logo_1.png"></div>
+            <div class="logo_right"><img src="img/misc/logo_2.png"></div>
+          </div>
+          <div class="logo_row">
+            <div class="logo_left"><img src="img/misc/logo_3.png"></div>
+            <div class="logo_right"><img src="img/misc/logo_4.png"></div>
+          </div>
+        </div>
 
       </div>
 

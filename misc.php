@@ -8,23 +8,39 @@
         <span>Documentaries</span>
         <br/><br/>
         <p>
-        TELLING STORIES: NORMAN ROCKWELL From the Collections of George Lucas & Steven Spielberg Documentary for The Smithsonian (Writer, Director, Producer, 2010)
+        TELLING STORIES: NORMAN ROCKWELL From the Collections of George Lucas & <br/>
+        Steven Spielberg<br/> 
+        Documentary for The Smithsonian (Writer, Director, Producer, 2010)
+        <br/>
+        <br/>
         </p>
+        
         <p>
-        82nd ACADEMY AWARDS
+        82nd ACADEMY AWARDS<br/>
         Interview montage featuring previous Oscar winners (Producer, 2010)
+        <br/>
+        <br/>
         </p>
+        
         <p>
-        DYSLEXIA: AN UNEXPECTED DIFFICULTY
+        DYSLEXIA: AN UNEXPECTED DIFFICULTY<br/>
         30-minute documentary for Yale University (Producer, 2009)
+        <br/>
+        <br/>
         </p>
+        
         <p>
-        MICHAEL J. FOX PARKINSON’S FOUNDATION
+        MICHAEL J. FOX PARKINSON’S FOUNDATION<br/>
         15-minute documentary on the creation of the Foundation (Producer, 2001)
+        <br/>
+        <br/>
         </p>
+        
         <p>
-        THE HOLLYWOOD ENTERTAINMENT MUSEUM 
+        THE HOLLYWOOD ENTERTAINMENT MUSEUM<br/>
         15-minute documentary starring Carol Burnett (Writer, Director, Producer, 1993)
+        <br/>
+        <br/>
         </p>
         <div class="logos">
           <div class="logo_row">

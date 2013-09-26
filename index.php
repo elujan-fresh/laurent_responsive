@@ -14,6 +14,12 @@ include('header.php');
             <li><img src="img/imagehitchcock.jpg"></li>
             <li><img src="img/imagelincoln.jpg"></li>
             <li><img src="img/imagepolaski.jpg"></li>
+            <li><img src="img/imagehitchcock.jpg"></li>
+            <li><img src="img/imagelincoln.jpg"></li>
+            <li><img src="img/imagepolaski.jpg"></li>
+            <li><img src="img/imagehitchcock.jpg"></li>
+            <li><img src="img/imagelincoln.jpg"></li>
+            <li><img src="img/imagepolaski.jpg"></li>
           </ul>
         </div>
         <div id="slideshow_right" class="next">
@@ -73,11 +79,11 @@ include('header.php');
             <hr class="hr_separator"/>
             <span class="biopost_title" >Recent</span>
             <p class="biopost_text">
-              Don’t Say No Until I Finish Talking<br/>
-              Night at the Movies: Episode 6<br/>
-              Roman Polanski: A Film Memoir<br/>
-              Behind the Scenes<br/>
-              Hitchcock: Piece by Piece<br/>
+              <a href="http://69.89.31.69/~nedlandm/lb/zanuck/" style="text-decoration:none;">Don’t Say No Until I Finish Talking</a><br/>
+              <a href="" style="text-decoration:none;">Night at the Movies: Episode 6</a><br/>
+              <a href="http://69.89.31.69/~nedlandm/lb/polanski/" style="text-decoration:none;">Roman Polanski: A Film Memoir</a><br/>
+              <a href="" style="text-decoration:none;">Behind the Scenes</a><br/>
+              <a href=http://69.89.31.69/~nedlandm/lb/hitchcock-piece-by-piece/" style="text-decoration:none;">Hitchcock: Piece by Piece</a><br/>
             </p>
           </p>
         </div>

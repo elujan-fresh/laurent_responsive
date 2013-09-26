@@ -21,7 +21,7 @@ include('header.php');
               <br/>
               <span class="contact_name">Jerry Schmitz</span>
               <br/>
-              <span class="contact_resolution">Resolution</span>
+              <span class="contact_resolution">&nbsp;</span>
             </p>
           </li>
           <li style="margin-left: 103px;">
